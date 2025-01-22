@@ -1,6 +1,6 @@
 {
   "homepage": "https://swapnabs.github.io/example-login",
-  "name": "my-login",
+  "name": "example-login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
