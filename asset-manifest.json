@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0106140a.css",
-    "main.js": "/static/js/main.f7052758.js",
-    "static/js/453.71cd4d42.chunk.js": "/static/js/453.71cd4d42.chunk.js",
-    "static/media/background_wallpaper.jpg": "/static/media/background_wallpaper.3ac90dbebd6be6e8bff5.jpg",
-    "static/media/facebook.png": "/static/media/facebook.9fde0b36c8603f503afe.png",
-    "static/media/google.png": "/static/media/google.4c7cb321efa903f1dc89.png",
-    "static/media/linkedin.png": "/static/media/linkedin.afcb43c2faa9c8bbdd9f.png",
-    "index.html": "/index.html",
-    "main.0106140a.css.map": "/static/css/main.0106140a.css.map",
-    "main.f7052758.js.map": "/static/js/main.f7052758.js.map",
-    "453.71cd4d42.chunk.js.map": "/static/js/453.71cd4d42.chunk.js.map"
+    "main.css": "/example-login/static/css/main.83a9a7d6.css",
+    "main.js": "/example-login/static/js/main.fcb46458.js",
+    "static/js/511.f01f52c4.chunk.js": "/example-login/static/js/511.f01f52c4.chunk.js",
+    "static/media/background_wallpaper.jpg": "/example-login/static/media/background_wallpaper.3ac90dbebd6be6e8bff5.jpg",
+    "static/media/facebook.png": "/example-login/static/media/facebook.9fde0b36c8603f503afe.png",
+    "static/media/google.png": "/example-login/static/media/google.4c7cb321efa903f1dc89.png",
+    "static/media/linkedin.png": "/example-login/static/media/linkedin.afcb43c2faa9c8bbdd9f.png",
+    "index.html": "/example-login/index.html",
+    "main.83a9a7d6.css.map": "/example-login/static/css/main.83a9a7d6.css.map",
+    "main.fcb46458.js.map": "/example-login/static/js/main.fcb46458.js.map",
+    "511.f01f52c4.chunk.js.map": "/example-login/static/js/511.f01f52c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0106140a.css",
-    "static/js/main.f7052758.js"
+    "static/css/main.83a9a7d6.css",
+    "static/js/main.fcb46458.js"
   ]
 }
