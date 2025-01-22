@@ -12,10 +12,10 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://swapnabs.github.io/my-login",
+  "homepage": "https://swapnabs.github.io/example-login",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -43,6 +43,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.15",
+    "gh-pages": "^6.3.0",
+    "source-map-loader": "^5.0.0"
   }
 }
